@@ -1,4 +1,4 @@
-# 200-Hours---English-the-United-kingdom-Spontaneous-Dialogue-Smartphone-speech-dataset
+# 200-Hours-English-the-United-kingdom-Spontaneous-Dialogue-Smartphone-speech-dataset
 
 ## Description
 English(the united kingdom) Spontaneous Dialogue Smartphone speech dataset, collected from dialogues based on given topics. Transcribed with text content, timestamp, speaker's ID, gender and other attributes. Our dataset was collected from extensive and diversify speakers(around 500 native speakers), geographicly speaking, enhancing model performance in real and complex tasks. Quality tested by various AI companies. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.
