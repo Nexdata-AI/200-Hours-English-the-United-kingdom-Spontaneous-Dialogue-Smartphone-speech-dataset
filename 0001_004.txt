@@ -1,0 +1,399 @@
+14.29762147	16.21341282	O1	Start to talk about travel.[N]
+16.58158379	17.22368183	O2	Travel. [N]
+17.23681535	17.99997399	O1	Yes.
+18.04416735	20.83364377	O2	What's your last travel.
+21.00684194	27.83315658	O1	My last travel um a long travel or just in the country I'm in or.[N]
+27.83921834	28.70764025	O2	[OVERLAP/]long travel.[/OVERLAP]
+28.71052505	32.37633339	O1	Long travel my last long travel was um Iceland. [N]
+32.49585583	33.34322509	O2	Iceland.[N]
+33.34809506	36.72704574	O1	Yes. I went there with a friend here [OVERLAP/]in April. [/OVERLAP]
+36.73096228	37.59438058	O2	Reykjavik.
+38.1031437	46.1031437	O1	Reykjavik. [OVERLAP/]yes, it's a Reykjavik [/OVERLAP] and then actually it was a trip we have been planned for three years ago.[N]
+46.5210502	52.04210039	O1	Before covid came we were supposed to go in April into twenty twenty.[N]
+52.0648178	56.07356454	O1	But then covid came and yeah, it got canceled.[N]
+56.13554548	56.74620603	O2	Um.[N]
+56.87263124	62.49368153	O1	So yeah, we ended up three years later to uh take that trip again.[N]
+62.57244017	65.6040221	O1	[OVERLAP/]so[/OVERLAP] we had nine days, I think.[N]
+65.66435316	66.42911027	O2	Nine days.[N]
+66.44429842	67.59753247	O1	Nine days yeah we.
+67.66069043	69.10631198	O2	[OVERLAP/]around[/OVERLAP] all the.
+69.12242091	73.24347759	O1	[OVERLAP/]all around the island.[/OVERLAP] yeah. All around the island so we have.
+73.71157967	78.35157662	O1	Um we have a car.
+78.54718345	78.78928896	O2	Yeah.
+78.81034161	85.71632329	O1	That we have rent. So we were just driving around, sleeping on camping spots.[N]
+85.71984455	89.68410738	O1	And see what was around Iceland. Yeah. [N]
+89.81442071	90.76086596	O2	Yeah, it's pretty good.
+90.77420131	91.18210011	O1	Yeah.
+91.2079945	92.0761576	O2	It's my dream.
+92.28407412	94.25326605	O1	Yeah. [OVERLAP/]i understand. [/OVERLAP]go it. [N]
+94.30357329	94.64328382	O1	Yeah.
+94.65907331	99.02698067	O1	When you have the time, do it. [OVERLAP/]because[/OVERLAP] it's you know, it's.[N]
+99.35288678	103.0100565	O1	It's a lot about the nature and the power of [OVERLAP/]nature. [/OVERLAP].
+103.0112721	104.0092327	O2	It's power of nature.
+104.0116535	105.5126343	O1	Yes. It [OVERLAP/]really is.[/OVERLAP]
+105.5271211	113.1976375	O2	You know you know I before watched the star war, have a part in there, [OVERLAP/]remember [/OVERLAP]this, how to say.[N]
+113.5929309	116.8129403	O2	I remember it's film, the movie, film there.
+119.2603112	125.0455549	O2	A [OVERLAP/]part, I [/OVERLAP]i okay. It's it's like the beach, but black.[N]
+125.0768561	130.562641	O1	Ah, yeah. The [OVERLAP/]black beach. Yeah. [/OVERLAP]yeah.[OVERLAP/] it's also[/OVERLAP] yeah call there's.[N]
+131.4464938	137.4473659	O1	Black beaches there. But yeah, I think it's. Yeah, the name was black beach, I think.[N]
+137.5624236	140.9772366	O1	Yeah and there is also a diamond beach.[N]
+141.0203948	141.9041478	O2	Yeah, diamond beach.
+141.9199373	144.5714957	O1	Yeah, where the s- the beach also is black. [N]
+144.5972412	151.4937327	O2	Yes, [OVERLAP/]because[/OVERLAP] I remember um there every year have someone, because of the.[N]
+151.8846707	155.0435292	O2	Because of the sea also wind so strong.
+155.0725286	155.5536792	O1	Um.
+155.5536792	157.3964752	O2	And someone died there. [N]
+157.4062277	158.2168619	O1	Yes.[N]
+158.2213155	158.5403393	O2	Yes.[N]
+158.5460493	162.0784778	O1	Because they were want to play with the waves. [N]
+162.082104	162.7672206	O2	Yeah.[N]
+162.7672206	170.1908267	O1	Even though they said don't go farther um to here, they have like a light set red, uh yellow green.[N]
+170.3855191	175.5512616	O1	[OVERLAP/]and it [/OVERLAP]it's shows you how long you can go, or how close you can go to the sea.[N]
+175.7668068	176.3525554	O2	Okay.
+176.3828487	182.5942235	O1	But [OVERLAP/]we [/OVERLAP] we saw people playing with the waves, so they were running.[N]
+182.7730962	190.6340344	O1	Against it and then running away. [OVERLAP/]so [/OVERLAP]that's why people are dying, because they try to go over the line.[N]
+194.2372504	197.6914926	O1	And there was a lot of people, actually, at the beach yeah.
+198.0941948	205.4404575	O1	It was also amazing how it looks and how the sand is, how, yeah, everything.[N]
+206.1696534	212.4055742	O1	And yeah, we actually also went out to a glacier, [OVERLAP/]hiking [/OVERLAP]on a [OVERLAP/]glacier[/OVERLAP] yeah.
+212.4055742	218.3124688	O1	That was, I think, it's the most impressive thing I have never seen.[N]
+218.6837916	225.3187882	O1	Because we were walking and we have a guide that told us that.[N]
+225.980612	229.6676902	O1	They made a you know a road to go.[N]
+229.9711345	236.3331481	O1	Maybe a week before, but it changes it moves all the time, this glacier so.[N]
+237.0278188	245.0278188	O1	The the road they have made for the next one to come seeing it can be gone because [OVERLAP/]it has [/OVERLAP]been moving around.
+245.420752	252.2440249	O1	Or moving a little bit. So it was really, really special.[N]
+252.2440249	258.0224099	O1	And also when it was moving, you could hear it.[OVERLAP/] it[/OVERLAP] sounds like thunder.
+258.1592906	258.8293496	O2	Thunder, yeah.
+258.8539637	265.964881	O1	Yeah because and it was really like, okay, it's going to rain or what is it. And she was like, no, it's because it's moving.
+266.4197078	274.4197078	O1	[OVERLAP/]so[/OVERLAP] you can hear it every time. It sounds like thunder. And I think we heard it five times so something like that, and it was really.[N]
+274.7956851	277.98465	O1	High and you could feel it in your body.[N]
+278.4989432	278.8964155	O2	Oh.
+278.8964155	279.9724657	O1	It was.
+280.2805753	286.5442491	O2	I had show [OVERLAP/]you some [/OVERLAP]photo [OVERLAP/]before[/OVERLAP] I take on on there.[N]
+286.6699441	288.7985127	O2	You you you you know there and I show you.
+288.8344274	289.3626471	O1	Yeah.[N]
+289.4309947	296.5576017	O2	Because well, actually I like, because we before I've been there.[N]
+298.8902754	300.762579	O1	Yes, [OVERLAP/]it's cool. [/OVERLAP]
+302.1584553	304.1388425	O1	Also a nice place to travel too.[N]
+304.8935956	309.3339455	O2	Well nothing there but [OVERLAP/] so[/OVERLAP] calm down[OVERLAP/] the soul [/OVERLAP]a small town[N].
+309.3352402	309.7822576	O1	Um.[N]
+309.8150828	310.7462708	O2	So calm down.
+310.8647992	311.2830912	O1	Yeah.[N]
+311.2837041	313.3244906	O2	And this this more fairies.[N]
+318.6148978	320.7853055	O2	[OVERLAP/]you know[/OVERLAP] the when I was a kid.[N]
+320.7859593	321.3194089	O1	Um.
+321.3490726	326.495632	O2	I watched a [OVERLAP/]movie[/OVERLAP] beautiful movie and uh.
+327.3443012	334.8788402	O2	And in the cinema, they have a, my my friend show me this, he say he show me the photo of this, how to say.
+334.8933645	336.0230225	O2	How how how call it.
+336.11475	337.5372823	O1	It's the little mermaid.
+337.5372823	338.5451818	O2	Little mermaid [OVERLAP/]yeah.[/OVERLAP]
+338.5540685	338.99338	O1	Yeah.
+339.6786229	342.6836079	O2	Um I thought before so big.[N]
+342.8075243	343.6946703	O1	Yeah um.[N]
+343.6978777	345.1308698	O2	But so small.[N]
+346.9993681	353.566376	O2	I I work on the, uh there around of the seaside park, I remembered [OVERLAP/]i was worked on.[N]
+353.5757651	360.3205895	O2	[OVERLAP/]i [/OVERLAP]found it, where is the the little mermaid, oh, there. Ah so many people [OVERLAP/]take the photo.[/OVERLAP][N]
+360.4377195	362.3414024	O2	Around there, but so small.[N]
+362.3421787	364.4802464	O1	It was so really it it is really small.
+364.4802464	369.7346934	O2	Like a Madrid, have a bear [OVERLAP/]with[/OVERLAP] a tree.
+370.90961	372.1229464	O2	Strawberry tree.
+372.1770432	372.6163546	O1	Yeah.
+372.636949	380.3911438	O2	Before the photo, before, be because the photo take by the down, by the under to top.
+380.4161757	381.0019243	O1	Um.
+381.0105864	382.3547655	O2	To tower the up.
+382.370319	382.7468717	O1	Yeah.
+382.7468717	389.9518262	O2	And um um it should be, I think, it's so is so big, [OVERLAP/]but[/OVERLAP] actually so small.[N]
+390.89692	392.6274719	O2	Bear with a tree.[OVERLAP/] yeah.[/OVERLAP]
+392.6770063	393.8203576	O1	Yeah, [OVERLAP/]that's true.[/OVERLAP]
+393.8203576	399.9206862	O2	This this my favorite, to this owner, I don't know how to say, that's this owner. [N]
+400.4851291	402.8497874	O1	[OVERLAP/]uh[/OVERLAP] Christian's hound.[N]
+402.8907548	403.2389572	O2	Yeah.
+403.2389572	407.9260054	O1	It's called in danish, yes. Christian's, where the boats are.[N]
+409.4075617	416.52926	O2	Because I i remember maybe with some movie or some [OVERLAP/]document, [/OVERLAP]i say I say you. I say this.[N]
+416.5396322	417.022958	O1	Yeah.
+417.0341641	418.1203478	O2	So what's this.[N]
+418.34	420.425319	O1	[OVERLAP/]it's also [/OVERLAP]a very.
+421.7467735	424.3188859	O2	And your uh your city your city Copenhagen, right.
+424.3256675	424.8245844	O1	No.
+424.9718071	425.4343447	O2	No.
+425.4343447	427.025495	O1	My city is Odense. [N]
+427.2853882	427.981793	O2	Odense.
+427.981793	433.9455629	O1	Yes, where Hans christian Andersen is from, [OVERLAP/]the guy [/OVERLAP]that has written the little mermaid.[N]
+433.9884067	434.6380381	O2	I.
+434.6389369	441.1577773	O1	Yeah he's from that city [OVERLAP/]it's. [/OVERLAP]uh I would say is a bit of the center of Denmark.[N]
+441.3065611	443.3830918	O1	The little island in in between.
+443.3830918	445.4992171	O2	Ah, so [OVERLAP/]uh this [/OVERLAP]part and this part.
+445.4992171	452.4926567	O1	[OVERLAP/]yes. [/OVERLAP]and then there's the long one, Jutland, that is combined with German. [OVERLAP/]and then there's[/OVERLAP] the island in the middle.[N]
+452.7314906	456.3116904	O1	[OVERLAP/]and then[/OVERLAP] there is Shetland, where Copenhagen is.
+456.3194454	456.6520567	O2	Yes.
+456.65463	461.1518175	O1	And I'm from that island, funen. [OVERLAP/]i would [/OVERLAP]say in the middle of that [OVERLAP/]yeah.[/OVERLAP][N]
+461.3085333	467.0416065	O2	But I remember in everywhere, the people uh take bicycle.
+468.4545599	468.8963092	O1	Yeah.
+468.9031304	469.7138704	O2	[OVERLAP/]take [/OVERLAP]bicycle.
+469.7342119	470.955519	O1	Bicycle [OVERLAP/]yes.[/OVERLAP]
+470.9692911	472.5145535	O2	[OVERLAP/]i I used [/OVERLAP]to bicycle travel.
+472.8021774	474.1741989	O1	[OVERLAP/]yeah you did that.[/OVERLAP]
+474.1783403	474.8695481	O2	Yeah the.
+475.0230839	475.9848028	O1	[OVERLAP/]in [/OVERLAP]Copenhagen.
+475.9903247	476.2293891	O2	Yeah.
+476.3249255	477.1356655	O1	[OVERLAP/]it's[/OVERLAP] crazy.
+477.312487	478.7206895	O2	Yeah that's so cold.[N]
+479.5779509	482.3393234	O2	Or also enjoy uh also enjoy [OVERLAP/]so cold.[/OVERLAP]
+482.4328042	488.7559025	O1	[OVERLAP/]yeah. It's [/OVERLAP]really cold. [OVERLAP/]it's not [/OVERLAP]summer. It's summer in Denmark before. In may, it can be summer.[N]
+488.9536786	491.8224509	O1	And then there is the school break, summer break.[N]
+491.920058	492.2365492	O2	Yeah.
+492.2733577	499.6602054	O1	And then it's getting cold, and but it's hot before when all the kids have to sit inside. And then when the summer break is over.[N]
+499.6602054	503.1574185	O1	It's getting hot again in Denmark. That's typical danish summer.[N]
+503.4561761	511.3990085	O2	Yeah. And there, I remember the the sun, um the sun always stay here.[N]
+511.5433924	511.9695506	O1	Yeah.
+512.0649022	513.2941926	O2	Always stay sky. [N]
+513.3177308	513.7785571	O1	Um.[N]
+513.7880335	516.2669611	O1	Until the twelve, stay here.[OVERLAP/] oh my god. [/OVERLAP]
+516.3429504	516.9198231	O1	Yeah.[N]
+517.005209	519.5517641	O2	But in the winter, no. [OVERLAP/]winter,[/OVERLAP] no.[N]
+519.7833967	526.5464985	O1	In the winter, we have a. We do not have so much sun in the winter. The sun [OVERLAP/]is going[/OVERLAP] down at four p m.[N]
+526.6856506	527.4439211	O2	Yeah. Four p m.
+527.4439211	528.0179228	O1	Yeah.
+528.0899101	531.8265899	O2	[OVERLAP/]in[/OVERLAP] Spain, so was six six [OVERLAP/]seven p m.[/OVERLAP]
+531.8364049	539.8364049	O1	Yeah. It's longer. The in the sun is out longer here, I think. But it's because, yeah, we are, de- Denmark is up north.[N]
+539.9195577	543.7279303	O1	So, yeah, in the summer, it's almost not dark.[N]
+543.7453771	544.5460884	O2	Okay.[N]
+544.5460884	552.5460884	O1	The sun is out until the or something like that. And then in the winter, it's getting dark really fast.[N]
+552.6611215	553.2327971	O1	Yeah.
+553.5218713	558.03465	O2	And so, what's your next travel, next long travel, for example.[N]
+558.0567568	562.4380522	O1	Um my next long travel, I really want to go to south America.[N]
+562.5534242	565.3260698	O2	South America [OVERLAP/]which one[/OVERLAP] which which country.[N]
+566.6980913	569.2479275	O1	Argentina, yes. I have [OVERLAP/]a friend from.[/OVERLAP]
+569.2544532	569.6442321	O2	There.
+569.6534487	570.7188442	O1	You have been there.
+570.7188442	571.1943744	O2	Yeah.
+571.3248285	572.187539	O1	Is it good.
+572.4681797	575.6853445	O2	Good uh six years ago.
+575.7729765	576.3349759	O1	Okay.
+576.3349759	581.5112312	O2	I've been in Argentina, in[OVERLAP/] Buenos Aires, [/OVERLAP]um Ushuaia.
+581.5291793	582.111249	O1	Yeah.
+583.0991539	587.974191	O2	Uh Puerto Puerto madero.
+588.0013943	588.5782669	O1	Um.
+588.5782669	595.7564248	O2	Which is a sea city in the middle of Argentina, and iguasu.[N]
+596.0357918	596.4775411	O1	Okay.
+596.4813577	597.9833055	O2	And Isla Marvina.
+598.6882774	599.6464025	O1	Isla.[N]
+599.9205925	605.1801729	O2	Uh um uh how to say in English, English name.[N]
+605.7674397	611.0096541	O2	It's well, in Spanish, [OVERLAP/]Isla[/OVERLAP] Isla Marvina.[N]
+611.0372424	611.6852708	O1	Yeah.
+612.2413552	615.1968217	O2	Uh but English name is Frankfurt.[N]
+615.6220566	616.4016143	O1	Frankfurt.
+616.5723756	622.5887667	O2	Oh, oh frank f- frank oh um let let me let me see the map.[N]
+622.7270752	623.2259921	O1	Yeah.
+623.3901946	628.7727403	O2	Show you the because before Argentina, between the British, I worked.[N]
+629.0432382	630.8570091	O1	Ah, yeah.[N]
+631.4048514	631.9557388	O2	Yes.
+631.9638592	632.7953874	O1	That's true.[N]
+632.9854452	634.2379345	O2	Yes, I worked there.
+634.2447962	634.7904866	O1	Yeah.
+634.7904866	640.452583	O2	And and and forty years ago.[N]
+640.4602664	641.1670654	O1	Um.[N]
+642.0433712	646.9151743	O2	Yes yes this I've been there. Oh, my god this.[N]
+646.9330719	648.3414727	O1	It's amazing country.
+649.0689197	652.5755005	O2	Well, Argentina, yes. Argentina, pretty good.[N]
+652.637404	653.0895474	O1	Yeah.
+653.0895474	657.363442	O2	Argentina is more yeah. Auckland Fuclan.
+659.4925987	660.4644473	O2	Fuclan yes.
+660.4707726	661.4312012	O1	[OVERLAP/]Fuclan.[/OVERLAP]
+661.6081377	663.6524019	O2	Argentina there [OVERLAP/]and [/OVERLAP]Fuclan there.
+663.6586399	666.2184965	O1	Fuclan. I have never heard about it Fuclan.[N]
+666.2448663	666.7687188	O2	Yes.
+666.7734865	667.3837477	O1	Yeah.
+667.5059349	668.3751689	O2	Fuclan.
+671.7246008	673.8218092	O1	Fuclan. [OVERLAP/]yeah. [/OVERLAP]yeah.
+673.8378164	675.9332265	O2	Fuclan. So, Isla Marvina.[N]
+675.9720429	676.2938802	O1	Yeah.
+676.2991771	680.0057468	O2	But what Argentina called called is Isla Marvina.
+680.0229973	680.5954547	O1	Okay.
+680.5954547	684.0089765	O2	But now is a part of England.
+684.0683825	684.6948453	O1	Um.[N]
+684.7795241	685.1683631	O2	Yeah.
+685.5264514	687.0174156	O2	[OVERLAP/]then[/OVERLAP] before have the world there.
+687.0572868	687.4899522	O1	Yeah.
+687.5036015	689.3379204	O2	There is nothing just don't have nothing.
+689.6324589	690.6587324	O1	They do have nothing.
+690.6639623	697.7990988	O2	Only I remember totally this this um um this one is so big.[N]
+697.8790433	698.2356478	O1	Um.
+698.2356478	705.9798024	O2	Just my son maybe maybe will little may big be but only have two thousand people there.[N]
+705.9798024	706.9266955	O1	That's not much.
+707.317966	713.0466745	O2	[OVERLAP/]yes [/OVERLAP]in two thousand two thousand but they only have a two nose like cities tall.
+713.0608088	713.3281367	O1	Um.
+713.3281367	717.9473978	O2	[OVERLAP/]because [/OVERLAP]only one story around of the sea that's it.
+718.0263533	718.7446253	O1	Okay.
+718.7446253	721.9047858	O2	And a small so small uh airport.
+721.9553315	722.5601922	O1	Yeah.
+722.5601922	725.5441569	O2	Only can one fly fly and one bag.[N]
+725.5493918	726.5916962	O1	One bag [OVERLAP/]okay.[/OVERLAP]
+726.5995439	733.3838052	O2	Only can wait the two flights here. They do have a almost have uh tax uh security.
+734.2829953	735.4225095	O2	Nothing just.
+735.42791	736.2066252	O1	You just go in.[N]
+736.2195113	736.4895383	O2	Yeah.
+736.4940106	736.8276874	O1	Uh yeah.
+736.8276874	741.2957334	O2	But we we we we take a boat to to there.
+741.3813318	741.7917729	O1	Okay.
+741.7917729	743.0210711	O2	And we take part to[OVERLAP/] there.[/OVERLAP]
+743.1078173	743.4480514	O1	Yeah.
+743.4480514	746.9104939	O2	And and penguin I have so many penguin.
+746.94448	747.5979455	O1	Okay.
+747.5979455	748.7486827	O2	The penguins this.
+748.7486827	749.1716376	O1	Yeah.
+749.9467824	750.3627362	O1	Yeah.
+750.3684342	757.9841398	O2	Does nothing so many way but you can feel like in European island.[N]
+760.5576103	763.5493948	O2	The powerful of the nature.
+763.5506575	763.9924455	O1	Yes.
+764.0006932	770.4793862	O2	Yes so strong the wings so strong [OVERLAP/]and[/OVERLAP] and well the nothing have maybe in the.
+770.6744614	773.5107057	O2	Like in the other plan like in the mars.
+773.5773084	774.5756345	O1	Yeah[OVERLAP/] yeah.[/OVERLAP]
+774.5973004	782.2901851	O2	Nothing have [OVERLAP/]and [/OVERLAP]so many way, but well, my son in um in um magic.[N]
+782.3762994	782.6972503	O1	Yeah.
+782.6972503	784.4961775	O2	And sorry magic and.
+785.4557931	786.0620336	O1	Yeah.
+787.9187746	790.2093204	O2	Mo- most south city of the world.
+790.7366826	793.5937609	O1	It's the most south city [OVERLAP/]of the world. [/OVERLAP]okay, yeah.
+793.5975993	796.9497526	O2	You know most south city of the world in Norway.[N]
+797.3028357	798.7292839	O1	The city of Norway.[N]
+798.8674444	802.3835437	O2	The city of Norway the [OVERLAP/]most[/OVERLAP] north to city of the world.
+804.5128071	805.4904013	O1	What is the name of it.
+806.9799922	808.5881214	O1	Okay I didn't know there.[N]
+809.4425045	809.9120437	O1	Yeah.
+810.264175	814.0743548	O2	Yeah, because I wanna be there[OVERLAP/] I wanna [/OVERLAP]visit there.
+814.1310243	817.6079919	O1	Because you have been on the sale you also want to be in the [OVERLAP/]north. Yeah.[/OVERLAP]
+818.8533237	825.6609069	O2	[OVERLAP/]from[/OVERLAP] a city is the city of the Norway was the north Korea. [N]
+825.7193374	826.8664396	O2	The second city.[N]
+831.057154	836.8733879	O2	[OVERLAP/]no[/OVERLAP] I i let me check let me check I i check the fly there no on.
+843.0478843	844.3979052	O2	You you know you know this.[N]
+844.5543047	845.6241409	O1	Which one.
+845.6241409	846.2827588	O2	This.
+846.4689599	849.2437752	O1	With the tea ah, Trondheim.[N]
+849.285358	849.885655	O2	Trondheim.
+849.8866765	850.326498	O1	Yeah.
+850.599622	854.3024439	O2	Trondheim, I think. [OVERLAP/]o-[/OVERLAP] o- oborder oborder.[N]
+854.5245835	855.0476145	O1	Yeah.
+855.0487289	856.9325556	O2	Oborder had fly to there.[N]
+856.9741603	857.57	O1	Okay.
+857.7007578	862.8287977	O2	I remember, I forget the border or, yeah.[N]
+863.1697222	866.5065676	O2	Well, the the third city, no, the second city is ber- Bergen.[N]
+868.7034448	869.0594759	O1	Yeah.
+869.0594759	872.77	O2	I fly to the northern Iran here, there.[N]
+875.4933363	876.8301797	O1	That that is the north.
+876.8594777	880.2699995	O2	Svarba [OVERLAP/]svarba [/OVERLAP]svarba land.
+880.3285384	881.0811707	O1	Okay.
+881.1084211	883.8335804	O2	I read some more um um yes.[N]
+884.1961409	884.7224572	O1	Um.
+884.8920297	888.5815071	O2	It's um most north city of the world.[N]
+888.5876748	890.3455713	O1	Of the [OVERLAP/]world, crazy.[/OVERLAP]
+890.3455713	894.4139885	O2	I saw, doc- I saw but it's more north than Iceland.[N]
+894.7041282	895.8118128	O1	Yeah, it's, it's crazy.[N]
+897.1294595	897.6768285	O1	Yeah.
+898.1378283	902.4851971	O2	Yes, I saw a doc- document nature document about there.[N]
+902.4965701	903.1018338	O1	Um.
+903.1378954	910.1431576	O2	And before, uh I have a chance can go there in the two thousand.
+910.5048016	912.452172	O2	Two thousand twenty but, you know.[N]
+913.7493772	914.1378964	O1	Yeah.
+914.1696079	915.5380302	O2	And the concert is trouble.
+915.5813691	916.0823613	O1	Yeah.
+916.116883	916.5266825	O2	Yeah so.
+916.5374556	916.8164032	O1	Yeah.
+916.8221095	921.5589484	O2	I need to be said this but, well, yeah.[N]
+921.6183671	923.7548146	O1	Sooner or later, you will see it.[N]
+923.7566238	924.2250454	O2	Yeah.
+924.2354072	925.0090922	O1	Yeah.[N]
+925.9483603	928.8430921	O2	Ne- next [OVERLAP/]travel, [/OVERLAP]when where will you go maybe.[N]
+929.4643597	931.8064673	O1	Yeah, I [OVERLAP/]would go[/OVERLAP] to Argentina.[N]
+932.7468105	933.1313923	O2	Yeah.
+933.1454659	936.9610529	O1	But actually, I know Mexico is not north, but I also want to see.
+936.9633504	940.6598954	O2	You [OVERLAP/]you need to[/OVERLAP] visa to Argentina I think you don't need visa to Argentina.[N]
+940.8011307	942.4592915	O1	You don't sure about that.
+942.5788463	943.1630574	O2	Visa.
+943.190689	945.3591122	O1	Yeah visa don't [OVERLAP/]you have[/OVERLAP] need to do.
+945.3734214	947.5322229	O2	I have visa I have [OVERLAP/]Argentina [/OVERLAP]visa.
+947.5469433	949.0206289	O1	Yeah I think.
+949.0557899	954.5242084	O2	You know, i, for this Argentina visa, I did five interviews.
+954.9824769	956.1561623	O1	Five interviews.[N]
+956.1563267	956.8721169	O2	Interviews.
+956.877709	958.4239293	O1	To come to [OVERLAP/]Argentina.[/OVERLAP]
+958.4852527	965.7408215	O2	Get the visa [OVERLAP/]um[/OVERLAP] um the embarrassing [OVERLAP/]and[/OVERLAP] Argentina barely see nearby my home.
+965.7914513	966.334215	O1	Yeah.
+966.5863153	974.3284203	O2	And in Alonso Martinez there have so many south American country.
+974.3736144	975.5472997	O2	[OVERLAP/]embarrassing[/OVERLAP] here.
+975.5797011	975.932333	O1	Yeah,
+975.932333	982.596314	O2	Ive the I've been five times for the interview. They always ask me, why you go to Argentina.[N]
+982.8775701	984.519677	O2	Well, I just say I travel.
+984.5555323	985.0451062	O1	Yeah what.
+985.0503361	992.8226301	O2	That's [OVERLAP/]okay[/OVERLAP] you you buy who wait uh next time I i call me and you can come you can come to have another interview.
+993.0384178	1000.769996	O2	Other is other guy well one one woman should uh take me to take me other office.
+1000.812292	1001.15966	O1	Yeah.
+1001.17545	1006.838422	O2	Other woman here with me ah interview. Ah why you go to Argentina I say, I just travel.
+1006.838422	1013.401578	O2	And um which city you you will be be I say, uh Buenos Aires um.[N]
+1013.585787	1021.264734	O2	Uh we what which which uh which part you will be visited with museum or something else when I say ah.
+1021.264734	1028.806837	O2	Maybe I will be go to the uh boga junior stadium. I will be go to river plata stadium.[N]
+1029.041349	1029.30977	O1	Yeah.
+1029.322627	1033.575399	O2	I will be visit uh some like digler.
+1033.716436	1034.19012	O1	Um.
+1034.19012	1040.354207	O2	The digler so- some of the um about the silence I will be visit ushuaia.
+1040.766854	1046.156415	O2	Maybe I will go to iguazu. Or something else. I say, okay, you back home. Let me go back home.
+1046.17	1050.669996	O2	And the next time, uh the third time, let me buy a security.
+1050.945894	1054.935947	O2	Let me buy a security of the travel. [OVERLAP/]i say,[/OVERLAP] okay, I prepared it.
+1055.159719	1061.717613	O2	Uh the they say, ah, you shou- you have a security. Okay, back home, wait. And the next time, they say, okay.
+1061.925921	1066.320662	O2	1
+1066.37	1072.243682	O2	I say, you don't give me reason how I can buy the flight. Tell me what time you will be go to Argentina and will be back.
+1072.243682	1075.144388	O2	Well, you will be go Argentina [OVERLAP/]and[/OVERLAP] we will be back I said.
+1075.343683	1081.717366	O2	Well maybe march of the twen- twenty of march. And yes.[N]
+1081.717366	1086.209004	O2	Um just say two weeks okay the last time I come here.
+1087.112073	1093.448946	O2	Check my photo, uh check my photo check my password airport, all the things. Okay, my boom.
+1093.651578	1097.173202	O2	Okay, my visa. And I take visa visa ten years.
+1097.689361	1099.36831	O1	Ten years [OVERLAP/]you have the visa.[/OVERLAP]
+1099.406879	1099.827932	O2	Yeah.
+1099.840103	1100.13484	O1	Okay.
+1100.269076	1102.032868	O2	Argentina visa is so strange.[N]
+1102.490272	1103.126948	O1	Well.
+1103.34759	1104.600223	O2	But five times.
+1104.735256	1106.182625	O1	Five times you have.
+1106.588711	1106.930817	O2	Yeah.
+1106.944879	1107.539617	O1	Have been to.
+1107.56622	1109.150424	O2	But don't don't need pay nothing.
+1109.653024	1112.379342	O1	[OVERLAP/]you don't[/OVERLAP] pay anything for the visa. [OVERLAP/]you say [/OVERLAP]have to.
+1112.38186	1114.45015	O2	Yeah before [OVERLAP/]i saw, [/OVERLAP]it shouldn't be pay.
+1115.198948	1120.588419	O2	Because in my country, you shouldn't be pay maybe one hundred twenty dollars.
+1121.865042	1122.779434	O2	To get the visa.
+1122.814056	1123.256162	O1	Okay.
+1123.267367	1130.15684	O2	But actually, no nothing they don't they didn't ask me about the visa. You shouldn't be pay or something else.
+1130.182485	1132.050907	O2	Just let me buy the security.
+1132.082075	1132.497865	O1	Yeah.
+1132.498605	1134.661765	O2	But I have. I show them, it's okay.
+1134.895483	1135.395483	O1	Yeah.
+1135.432572	1135.798948	O2	Yeah.
+1135.798948	1136.293684	O1	Good.
+1136.551577	1143.993682	O2	But well I don't and I have Argentina visa the t. You have Argentina visa, you can go to Chile too.
+1144.033321	1145.143848	O1	To Chile yeah.
+1145.297549	1149.950185	O2	Yeah I wan- I really wanna been um.
+1150.75	1156.084211	O2	A city, not city is um there, how to say this.[N]
+1164.36237	1165.309739	O2	There.
+1167.885792	1169.838418	O2	Isla de pascal.
+1169.995353	1170.679564	O1	Yeah.
+1171.20111	1173.501113	O2	Isla de pascal. You know where this famous.
+1173.517478	1174.343794	O1	Um no.[N]
+1174.361578	1180.191578	O2	The famous about you will know this. You know this, I think.[N]
+1180.21181	1180.948653	O1	Maybe can.
+1180.961646	1182.361648	O2	Wait uh.
+1184.623161	1186.933682	O2	The so famous is this.
+1188.600058	1189.531638	O1	What is that.
+1194.258952	1200.806319	O1	Ah, yes, yes. I know those yeah it's called.[N]
+1203.51711	1208.841581	O1	Is it something with Easter uh is not Easter island. I know no, no.
+1208.984124	1209.452546	O2	No.
+1211.493111	1211.8098	O2	Yes.
+1211.820531	1214.767895	O1	Yeah, I can remember the name of it.[OVERLAP/] but i[/OVERLAP] have seen it.
+1214.767895	1219.754383	O2	It's a small small land but have a so many this.
+1221.153051	1225.546723	O1	I think it's called raster island or something like that. Maybe.
+1226.378421	1232.362629	O2	Yes, have so many. And when I was a kid, I know I know this photo. Yes. I saw it from
+1232.988178	1233.572389	O1	Yes.
+1234.122368	1235.575086	O2	I saw the from.[N]
+1238.055889	1241.066646	O2	Yes from the other planet, some people from other planet.
+1243.18054	1245.654226	O2	So it's mine. I've rea- really wanna been there.[N]
+1245.713696	1246.333665	O1	Yeah.
+1246.532423	1247.557267	O2	One times.
+1248.000627	1248.605979	O1	Um.
